@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bigfoot-market/static/css/main.073c9b0a.css",
-    "main.js": "/bigfoot-market/static/js/main.85e3202d.js",
-    "static/js/787.62449090.chunk.js": "/bigfoot-market/static/js/787.62449090.chunk.js",
+    "main.js": "/bigfoot-market/static/js/main.749c011b.js",
+    "static/js/787.482db0bd.chunk.js": "/bigfoot-market/static/js/787.482db0bd.chunk.js",
     "static/media/logo.svg": "/bigfoot-market/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bigfoot-market/index.html",
     "main.073c9b0a.css.map": "/bigfoot-market/static/css/main.073c9b0a.css.map",
-    "main.85e3202d.js.map": "/bigfoot-market/static/js/main.85e3202d.js.map",
-    "787.62449090.chunk.js.map": "/bigfoot-market/static/js/787.62449090.chunk.js.map"
+    "main.749c011b.js.map": "/bigfoot-market/static/js/main.749c011b.js.map",
+    "787.482db0bd.chunk.js.map": "/bigfoot-market/static/js/787.482db0bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.85e3202d.js"
+    "static/js/main.749c011b.js"
   ]
 }
