@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bigfoot-market/static/css/main.10ceff2d.css",
-    "main.js": "/bigfoot-market/static/js/main.bde77a77.js",
+    "main.js": "/bigfoot-market/static/js/main.87fe14c8.js",
     "index.html": "/bigfoot-market/index.html",
     "main.10ceff2d.css.map": "/bigfoot-market/static/css/main.10ceff2d.css.map",
-    "main.bde77a77.js.map": "/bigfoot-market/static/js/main.bde77a77.js.map"
+    "main.87fe14c8.js.map": "/bigfoot-market/static/js/main.87fe14c8.js.map"
   },
   "entrypoints": [
     "static/css/main.10ceff2d.css",
-    "static/js/main.bde77a77.js"
+    "static/js/main.87fe14c8.js"
   ]
 }
